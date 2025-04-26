@@ -14,11 +14,14 @@ To write a Java program to get values of variables 'a' and 'b' and then check if
 9. End
 
 ## PROGRAM:
+
+```
 /*
 Program to implement a variable and operators using Java
-Developed by: Onteddu Sirisha
-RegisterNumber: 212222230103
+Developed by: SUJITHRA B K N
+RegisterNumber: 212222230153
 */
+```
 
 ## Sourcecode.java:
 
