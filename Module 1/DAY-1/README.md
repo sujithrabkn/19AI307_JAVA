@@ -16,12 +16,16 @@ To create a class named 'Student' with String variable 'name' and String variabl
 9. End
 10. 
 ## PROGRAM:
+
+```
 /*
 Program to implement a class & objects using Java
 Developed by: SUJITHRA B K N
 RegisterNumber: 212222230153
 */
-Sourcecode.java:
+```
+
+## Sourcecode.java:
 
 ```
 class Student
