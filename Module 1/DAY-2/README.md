@@ -49,13 +49,14 @@ public class Demo {
 ```
 
 ## OUTPUT:
-Input    Expected   Got
 
-23       true       true
-34
+```
+| Input  | Expected  | Got   |
+|--------|-----------|-------|
+| 23, 34 | true      | true  |
+|124, 23 | false     | false |
+```
 
-124      false      false
-23
 
 ## RESULT:
 Thus, the Java program to get values of variables 'a' and 'b' and then check if both the conditions 'a < 50' and 'a < b' are true is created successfully.
