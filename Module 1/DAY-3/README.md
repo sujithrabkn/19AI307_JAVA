@@ -13,12 +13,15 @@ To develop a Java program to check given number is zero or not.
 5. Check if 'num' is equal to 0: a. If true, print "Given number is Zero" b. If false, print 'num' followed by " is Non-Zero"
 6. End
 ## PROGRAM:
+```
 /*
 Program to implement a class & objects using Java
 Developed by: SUJITHRA B K N
 RegisterNumber: 212222230153
 */
+```
 ## Sourcecode.java:
+```
 import java.util.Scanner;
 
 public class Demo
@@ -35,7 +38,7 @@ public class Demo
         }
     }
 }
-
+```
 ## OUTPUT:
 
 ![437391988-2ce116ff-7c08-480d-af64-1c7f658acefb](https://github.com/user-attachments/assets/aec950d6-5df8-4257-bab5-08d3554e3a29)
