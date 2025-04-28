@@ -17,8 +17,8 @@ To develop a Java Program to display the addition number using private modifiers
 ```
 /*
 Program to implement a access modifiers using Java
-Developed by: Onteddu Sirisha
-RegisterNumber: 212222230103
+Developed by: SUJITHRA B K N
+RegisterNumber: 212222230153
 */
 ```
 ## Sourcecode.java:
