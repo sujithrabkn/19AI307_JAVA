@@ -96,5 +96,5 @@ public class Main {
 
 ![438025781-70c0a76a-f3e3-49f4-9590-84e1f38706ef](https://github.com/user-attachments/assets/7586448a-8927-4199-af97-1be446eb9ddd)
 
-RESULT:
+## RESULT:
 Thus, the java program for below situation, Student object contains member 'Stu_Id'. It contains object named subject, which contains its own informations such as subject1,subject2,subject3,subject was executed successfully.
